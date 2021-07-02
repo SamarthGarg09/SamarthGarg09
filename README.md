@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samarth-garg
-- 👀 I’m interested in c++,androidDevelopment,data structures and algorithm and web-development
+- 👀 I’m interested in c++,androidDevelopment,data structures and algorithm, linux and new technologies.
 - 🌱 I’m currently learning all fields listed above
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me via samarthgarg92001@gmail.com
