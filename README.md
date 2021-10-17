@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samarth-garg
-- 👀 I’m interested in c++,androidDevelopment, linux ,machine learning,deep learning and new technologies.
-- 🌱 I’m currently learning all fields listed above
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in c++,kotlin,androidDevelopment,python,tensorflow,machine learning ,computer vision,natural language processing, linear algebra, statistics, data-visualization and various other fields.
+- 🌱 I’m justALearner...
+- 💞️ I’m looking to collaborate on android,ML,Dl projects
 - 📫 reach me via samarthgarg92001@gmail.com
 
 <!---
