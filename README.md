@@ -1,7 +1,7 @@
  # 👋 Hello, I’m @samarth-garg
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/76812408/147843697-2c4bf6bf-0a9e-42f4-9312-163c82b6b765.png">
 
-- ##### 👀 I’m interested in python, machine learning, computer vision, natural language processing algorithms.
+- ##### 👀 I’m passionate about python, machine learning, computer vision, natural language processing algorithms.
   ###### 🤓Also love to work around maths which includes linear algebra, statistics, probability and so on.
 - ##### 🌱 I’m justALearner...
 - ##### 💞️ I’m looking to collaborate on Machine Learning and Deeplearning projects
@@ -92,18 +92,18 @@
                                                                                                                                               
                                                                                                                                             
 <a href="https://t.me/samarth_garg09">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+  <img align="left" alt="Samarth's's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 
 <a href="https://samarthgarg92001@gmail.com">
 <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="22" alt="logo gmail png brand brands gmail logo logos icon" /></a>                                     
                               
 <a href="https://github.com/SamarthGarg09">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" width="22px" align="left"/>
+  <img align="left" alt="Samarth's's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" width="22px" align="left"/>
 </a>
 
 
 <a href="https://www.linkedin.com/in/samarth-garg-a16145202/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Samarth's's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
