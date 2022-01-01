@@ -66,15 +66,15 @@
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
+    &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
+    &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
+    &emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
+     &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
+    &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-35BF5C?style=for-the-badge&logo=Canva&logoColor=white"></a>
@@ -86,30 +86,30 @@
     &emsp;
     
 </p>
-
-## Contact me : 
-                                                                                                                                     
+                                                                                                                                
 <summary> Connect with me🤝: </summary>  
-<details>                                                                                                                                           
+                                                                                                                                            
+                                                                                                                                              
+                                                                                                                                            
 <a href="https://t.me/samarth_garg09">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+
+<a href="https://samarthgarg92001@gmail.com">
+<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="22" alt="logo gmail png brand brands gmail logo logos icon" /></a>                                     
+                              
+<a href="https://github.com/SamarthGarg09">
+  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" width="22px" align="left"/>
 </a>
 
-<a href="https://github.com/SamarthGarg09">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
 
 <a href="https://www.linkedin.com/in/samarth-garg-a16145202/">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
+ 
                               
-📫 [![Gmail Badge](https://img.shields.io/badge/-samarthgarg92001@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:samarthgarg92001@gmail.com)](samarthgarg92001@gmail.com)
-                              
-</details>
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<img src="https://tenor.com/view/inception-deeper-go-deeper-we-need-to-go-deeper-leonardo-di-caprio-gif-16756828.gif" alt="this slowpoke moves"  width="1000" />
 
 ------
 <!---
