@@ -109,7 +109,9 @@
 <br/>
  
                               
-<img src="https://tenor.com/view/inception-deeper-go-deeper-we-need-to-go-deeper-leonardo-di-caprio-gif-16756828.gif" alt="this slowpoke moves"  width="1000" />
+<!---
+                                                                                                                                  <img src="https://tenor.com/view/inception-deeper-go-deeper-we-need-to-go-deeper-leonardo-di-caprio-gif-16756828.gif" alt="this slowpoke moves"  width="1000" />
+                                                                                                                                  --->
 
 ------
 <!---
